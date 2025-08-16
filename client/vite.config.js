@@ -13,6 +13,7 @@ export default defineConfig({
     emptyOutDir: true,
     assetsDir: 'assets',
   },
+  
   // Configure base path for GitHub Pages
   base: '/UrduGlue.github.io/',  // Replace 'uglue' with your actual repository name
 })
